@@ -1,0 +1,21 @@
+#score {
+	text-align: center;
+}
+
+#game {
+	widith: 600px;
+	height: 300px;
+	border: 2px solid #000000;
+	margin: auto;
+	background-image: url("images/new_improved_game_background.jpg");
+	background-size: cover;
+}
+
+#dino {
+	height: 75px;
+	width: 75px;
+	position: relative;
+	top: 225px;
+	background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fterm%2Fdinosaurs%2F1439055%2F&psig=AOvVaw1uaIFigyWKdOCN3h9G2S6J&ust=1635901318433000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD2rL69-PMCFQAAAAAdAAAAABAq);
+	background-size: cover;
+}
